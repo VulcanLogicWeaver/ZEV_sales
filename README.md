@@ -64,7 +64,7 @@ As a next step a couple of regression models are used to further improve on the 
 - Gradient Boost
 
 ## Following subtasks were used for further refinig the model and tuning
-- performing feature engineering
+- Performing feature engineering
 - Data preprocessing
 - Model selection and training
 
@@ -79,22 +79,6 @@ Below image indicates the ZEV sales
 Below image indicates the most popular brand and model sales
 <img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/c386c9f4-95ab-4cca-ac4c-712bb569cbc6" />
 
-
-# EV sales prediction summary: #
-## Data Analysis Key Findings ##
-Feature engineering successfully created new features, including time-based features ('Year', 'Quarter_Num') and one-hot encoded categorical features ('COUNTY', 'FUEL_TYPE', 'MAKE', 'MODEL'), significantly increasing the number of features available for modeling.
-<br></b>
-Data preprocessing involved splitting the data into training and testing sets and scaling the numerical features while passing through the one-hot encoded features using a column transformer.
-Ridge and Lasso regression models were trained on the processed data.
-<br></b>
-Evaluation metrics showed that the Ridge model achieved an R-squared of 0.21 and an MAE of 51.53 on the test set. The Lasso model achieved an R-squared of 0.17 and an MAE of 40.80.
-Compared to the baseline Linear Regression (R-squared: 0.0005, MAE: 49.04), RandomForestRegressor (R-squared: 0.0005, MAE: 49.21), and GradientBoostingRegressor (R-squared: 0.0006, MAE: 49.12), the Ridge and Lasso models showed an improvement in R-squared, indicating they explain more variance in ZEV sales. Lasso also achieved the lowest MAE among all tested models.
-Hyperparameter tuning using GridSearchCV found the best alpha for Ridge to be 1.0 (cross-validated R-squared: 0.204) and the best alpha for Lasso to be 0.1 (cross-validated R-squared: 0.197). The best Ridge model from the tuning process was used for final predictions.
-<br></b>
-Sample predictions from the best Ridge model showed a predicted range of approximately -162 to 688, which is significantly smaller than the actual range of 1 to 7007, indicating the model struggles to predict the full variability and higher sales values. Some negative predictions also occurred, highlighting a limitation of the linear model.
-## Insights or Next Steps ##
-The current models, even with engineered features, only explain a small portion of the variance in ZEV sales. Future work should explore additional features (possibly economic indicators, fuel prices, and policy changes). We know thse will likely play a significant role in ZEV adoption.
-
 # Predict the installation for EV charging stations #
 ## 5. Modeling - regression models ##
 Train regression models:
@@ -105,20 +89,16 @@ Train regression models:
 Below chart indicates the EV charging station installations
   <img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/b29adf39-b40d-4a21-acad-44be897cba81" />
 
-# EV charging stations prediction Summary: #
-## Data Analysis Key Findings ##
-Regression models (Linear Regression, Ridge, and Lasso) were trained to predict the number of EV charging stations based on year and quarter.
-Model evaluation using MAE, MSE, RMSE, and R-squared showed negative R-squared values, indicating insuifficient data was for this time series forecasting task.
-Among the tested models, Ridge Regression had slightly lower error metrics (MAE, MSE, RMSE) on the test set compared to Linear and Lasso Regression.
-Using the Ridge model, the predicted number of charging stations for the next 5 years (from 2025Q3 to 2030Q2) were generated, with low reliability of these predictions.
-## Insights or Next Steps ##
-The current regression approach based solely on year and quarter is not effective for forecasting EV charging stations, suggesting to incorporate additional relevant features.
-Further investigation is needed to understand the underlying patterns and potential external factors influencing the growth of EV charging stations to build a more accurate predictive model.
-
 # Final task is to determine the Estimate electricity consumption per ev and total electricity consumption from projected zev sales # 
 Making reasonable assumptions about the average electricity consumption of an electric vehicle per unit of distance or time.
 Use the predicted ZEV sales for the next 5 years (which we just calculated) and the estimated consumption per EV to project the total electricity consumption due to the increased EV fleet.
 
-## Data Analysis Key Findings ##
+# Summary #
+## 1. EV sales prediction summary: ##
+The current models, even with engineered features, only explain a small portion of the variance in ZEV sales. Future work should explore additional features (possibly economic indicators, fuel prices, and policy changes). We know thse will likely play a significant role in ZEV adoption.
+## 2. EV charging station prediction: ##
+The current regression approach based solely on year and quarter is not effective for forecasting EV charging stations, suggesting to incorporate additional relevant features.
+Further investigation is needed to understand the underlying patterns and potential external factors influencing the growth of EV charging stations to build a more accurate predictive model.
+## 3. Energy demand due to ZEV sales ##
 According to the U.S. Energy Information Administration (EIA) reported that EV electricity consumption in California rose by over 50% by early 2024.
 With the number of ZEV sales increasing, the electricty demand continues to rise year-over-year.
