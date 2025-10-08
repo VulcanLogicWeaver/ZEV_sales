@@ -1,0 +1,99 @@
+Station Number,Station Name,Open Retail Status,Address,City,State,Zip Code,County,Number of Stations,Latitude,Longitude,Fueling Positions
+1,Diamond Bar,Light-Duty Open Retail,21865 E. Copley Drive,Diamond Bar,CA,91765,Los Angeles,1,34.0010516,-117.83159,1
+2,West Sacramento,Light-Duty Open Retail,1515 S. River Road,West Sacramento,CA,95691,Yolo,1,38.569456,-121.5239562,2
+3,San Juan Capistrano,Light-Duty Open Retail,26572 Junipero Serra Rd.,San Juan Capistrano,CA,92675,Orange,1,33.5197168,-117.6692815,2
+4,Fairfax,Light-Duty Open Retail,7751 Beverly Blvd.,Los Angeles,CA,90036,Los Angeles,1,34.0763981,-118.360874,1
+5,Lawndale,Light-Duty Open Retail,15606 Inglewood Ave.,Lawndale,CA,90260,Los Angeles,1,33.8894198,-118.3632137,1
+6,Woodland Hills,Light-Duty Open Retail,5314 Topanga Canyon Rd.,Woodland Hills,CA,91364,Los Angeles,1,34.1664593,-118.6075399,1
+7,Mountain View,Light-Duty Open Retail,830 Leong Dr.,Mountain View,CA,94043,Santa Clara,1,37.4051407,-122.0690881,1
+8,CSULA,Temporarily Non-Operational,5151 State University Dr.,Los Angeles,CA,90032,Los Angeles,1,34.0620435,-118.1758474,1
+9,Harris Ranch,Light-Duty Open Retail,24505 W. Dorris Ave.,Coalinga,CA,93210,Fresno,1,36.2491542,-120.2424817,1
+10,South San Francisco,Light-Duty Open Retail,248 S. Airport Blvd.,South San Francisco,CA,94080,San Mateo,1,37.6479527,-122.4080995,1
+11,San Jose - N. 1st,Light-Duty Open Retail,2101 N. 1st St.,San Jose,CA,95131,Santa Clara,1,37.3733553,-121.9210615,1
+12,Long Beach,Temporarily Non-Operational,3401 Long Beach Blvd.,Long Beach,CA,90807,Los Angeles,1,33.8192302,-118.1919115,1
+13,Riverside,Temporarily Non-Operational,8095 Lincoln Ave.,Riverside,CA,92504,Riverside,1,33.9239256,-117.4121106,1
+14,Costa Mesa,Light-Duty Open Retail,2050 Harbor Blvd.,Costa Mesa,CA,92627,Orange,1,33.6487448,-117.9209787,1
+15,La Canada Flintridge,Light-Duty Open Retail,550 Foothill Blvd.,La Canada Flintridge,CA,91011,Los Angeles,1,34.2000408,-118.1934196,1
+16,Lake Forest,Light-Duty Open Retail,20731 Lake Forest Dr.,Lake Forest,CA,92630,Orange,1,33.6615134,-117.6706532,1
+17,Saratoga,Light-Duty Open Retail,12600 Saratoga Ave.,Saratoga,CA,95070,Santa Clara,1,37.2841898,-122.0015928,1
+18,Campbell - Winchester,Light-Duty Open Retail,2855 Winchester Blvd.,Campbell,CA,95008,Santa Clara,1,37.2726766,-121.9559212,1
+19,Santa Barbara,Light-Duty Open Retail,150 S. La Cumbre Rd.,Santa Barbara,CA,93105,Santa Barbara,1,34.4381235,-119.7531675,1
+20,Hayward,Light-Duty Open Retail,391 W. A St.,Hayward,CA,94541,Alameda,1,37.6666999,-122.1086959,1
+21,Mill Valley,Light-Duty Open Retail,570 Redwood Hwy,Mill Valley,CA,94941,Marin,1,37.8888272,-122.5179817,1
+22,Truckee,Light-Duty Open Retail,12105 Donner Pass Rd.,Truckee,CA,96161,Nevada,1,39.3249466,-120.225761,1
+23,Hollywood,Light-Duty Open Retail,5700 Hollywood Blvd.,Los Angeles,CA,90028,Los Angeles,1,34.1013001,-118.3162769,1
+24,Playa Del Rey,Light-Duty Open Retail,8126 Lincoln Blvd.,Los Angeles,CA,90045,Los Angeles,1,33.9630697,-118.4238918,1
+25,Del Mar,Temporarily Non-Operational,3060 Carmel Valley Rd.,San Diego,CA,92130,San Diego,1,32.9336099,-117.2421275,1
+26,South Pasadena,Light-Duty Open Retail,1200 Fair Oaks Ave.,South Pasadena,CA,91030,Los Angeles,1,34.1117701,-118.152057,1
+27,San Ramon,Light-Duty Open Retail,4475 Norris Canyon Rd.,San Ramon,CA,94583,Contra Costa,1,37.7725089,-121.97128,1
+28,Fremont,Light-Duty Open Retail,41700 Grimmer Blvd.,Fremont,CA,94538,Alameda,1,37.5221941,-121.9707863,1
+29,Ontario,Temporarily Non-Operational,1850 E. Holt Blvd.,Ontario,CA,91761,San Bernardino,1,34.0631126,-117.6135483,1
+30,Thousand Oaks,Light-Duty Open Retail,3102 Thousand Oaks Blvd.,Thousand Oaks,CA,91362,Ventura,1,34.1687322,-118.8381319,1
+31,Emeryville,Temporarily Non-Operational,1172 45th St.,Emeryville,CA,94608,Alameda,1,37.83404,-122.2848899,1
+32,Oakland,Light-Duty Open Retail,350 Grand Ave.,Oakland,CA,94610,Alameda,1,37.8092334,-122.2578068,2
+33,Fountain Valley,Light-Duty Open Retail,18480 Brookhurst St.,Fountain Valley,CA,92708,Orange,1,33.6944881,-117.9559891,3
+34,Torrance - 190th St,Light-Duty Open Retail,2051 W. 190th Street,Torrance,CA,90501,Los Angeles,1,33.8585679,-118.3175809,4
+35,Mission Hills,Light-Duty Open Retail,15544 San Fernando Mission Blvd.,Mission Hills,CA,91345,Los Angeles,1,34.2714991,-118.4733018,1
+36,Sunnyvale,Light-Duty Open Retail,1296 Sunnyvale Saratoga Rd.,Sunnyvale,CA,94087,Santa Clara,1,37.3526582,-122.0340136,3
+37,Studio City,Light-Duty Open Retail,3780 Cahuenga Blvd.,Studio City,CA,91604,Los Angeles,1,34.137028,-118.3649335,3
+38,Placentia - Orangethorpe,Light-Duty Open Retail,313 West Orangethorpe Avenue, Placentia,CA,92870,Orange,1,33.8620691,-117.8783621,4
+39,Campbell - E. Hamilton,Light-Duty Open Retail,337 E. Hamilton Ave.,Campbell,CA,95008,Santa Clara,1,37.294683,-121.9461001,3
+40,Concord,Light-Duty Open Retail,605 Contra Costa Blvd.,Concord,CA,94523,Contra Costa,1,37.9751179,-122.0664246,2
+41,Aliso Viejo - LaPaz,Light-Duty Open Retail,26813 La Paz Road, Aliso Viejo,CA,92656,Orange,1,33.5731873,-117.7095656,4
+42,Sherman Oaks,Light-Duty Open Retail,14478 Ventura Blvd.,Sherman Oaks,CA,91423,Los Angeles,1,34.1506479,-118.4506192,3
+43,Costa Mesa - Bristol,Light-Duty Open Retail,2995 Bristol Street, Costa Mesa,CA,92626,Orange,1,33.679754,-117.8883285,4
+44,Baldwin Park - Merced,Light-Duty Open Retail,14477 Merced Avenue, Baldwin Park,CA,91706,Los Angeles,1,34.07227,-117.9625557,4
+45,Hawaiian Gardens,Temporarily Non-Operational,11807 East Carson Street,Hawaiian Gardens,CA,90716,Los Angeles,1,33.8317985,-118.0836158,2
+46,Orange - Tustin,Light-Duty Open Retail,615 South Tustin Street, Orange,CA,92866,Orange,1,33.7783635,-117.8376817,4
+47,Cupertino - StevensCreek,Light-Duty Open Retail,21530 Stevens Creek Boulevard, Cupertino,CA,95014,Santa Clara,1,37.3224708,-122.05384,4
+48,San Jose - Snell,Light-Duty Open Retail,3939 Snell Avenue, San Jose,CA,95136,Santa Clara,1,37.2770545,-121.8449948,4
+49,Burbank - Hollywood,Light-Duty Open Retail,800 North Hollywood Way, Burbank,CA,91505,Los Angeles,1,34.1647543,-118.3474019,4
+50,Seal Beach,Light-Duty Open Retail,13980 Seal Beach Boulevard,Seal Beach,CA,90740,Orange,1,33.759908,-118.0802777,2
+51,Pasadena - Allen,Light-Duty Open Retail,475 N Allen Avenue,Pasadena,CA,91106,Los Angeles,1,34.1540691,-118.1158053,4
+52,Anaheim - North Euclid,Light-Duty Open Retail,1100 North Euclid Street,Anaheim,CA,92801,Orange,1,33.847552,-117.9434273,2
+53,San Diego,Light-Duty Open Retail,5494 Mission Center Rd.,San Diego,CA,92108,San Diego,1,32.7739856,-117.1565724,3
+54,Oakland - Foothill,Light-Duty Open Retail,4280 Foothill Boulevard,Oakland,CA,94601,Alameda,1,37.77508,-122.2140607,4
+55,Corona,Light-Duty Open Retail,616 Paseo Grande,Corona,CA,92882,Riverside,1,33.8787978,-117.6040649,2
+56,Santa Ana - E McFadden,Temporarily Non-Operational,2120 East McFadden Avenue,Santa Ana,CA,92705,Orange,1,33.7335699,-117.8385746,2
+57,Port of Oakland,Mixed-Use Open Retail,2450 Engineer Road,Oakland,CA,94607,Alameda,1,37.8241311,-122.2975968,4
+58,Moreno Valley,Light-Duty Open Retail,12431 Heacock Street,Moreno Valley,CA,92553,Riverside,1,33.9403061,-117.2440933,2
+59,Redwood City,Light-Duty Planned,503 Whipple Ave.,Redwood City,CA,94063,San Mateo,1,37.4941213,-122.2367116,3
+60,Riverside - Central,Light-Duty Planned,3505 Central Avenue ,Riverside,CA,92506,Riverside,1,33.9539042,-117.3905742,4
+61,San Bernardino - Waterman,Light-Duty Planned,1930 South Waterman Avenue, San Bernardino,CA,92408,San Bernardino,1,34.0661236,-117.2813277,4
+62,El Cerrito - Carlson,Light-Duty Planned,3160 Carlson Boulevard, El Cerrito,CA,94530,Contra Costa,1,37.9022362,-122.3065235,4
+63,San Diego - RanchoCarmel,Light-Duty Planned,11030 Rancho Carmel Drive, San Diego,CA,92128,San Diego,1,32.9770493,-117.0853434,4
+64,Buena Park - Beach,Light-Duty Planned,6392 Beach Boulevard, Buena Park,CA,90621,Orange ,1,33.8679663,-117.999982,4
+65,Fremont - WarmSprings,Light-Duty Planned,47700 Warm Springs Boulevard, Fremont,CA,94539,Alameda,1,37.4774314,-121.9240106,4
+66,Camarillo,Light-Duty Planned,2911 Petit Street,Camarillo,CA,93012,Ventura,1,34.2153761,-119.0330428,4
+67,Orinda,Light-Duty Planned,67 Moraga Way,Orinda,CA,94563,Contra Costa,1,37.87853,-122.1828633,4
+68,San Diego - Washington,Light-Duty Planned,1832 West Washington Street, San Diego,CA,92103,San Diego,1,32.7431354,-117.1841057,4
+69,San Jose - SantaClara,Light-Duty Planned,510 East Santa Clara Street, San Jose,CA,95112,Santa Clara,1,37.3411023,-121.8818346,4
+70,Ventura,Light-Duty Planned,2121 Harbor Boulevard,Ventura,CA ,93001,Ventura,1,34.2669435,-119.2751223,4
+71,Fontana,Light-Duty Planned,16880 Slover Avenue, Fontana,CA,92337,San Bernardino,1,34.0635077,-117.4382115,4
+72,Los Angeles - Santa Monica,Light-Duty Planned,10867 Santa Monica Boulevard,Los Angeles,CA ,90025,Los Angeles,1,34.0498799,-118.440692,4
+73,Vallejo,Light-Duty Planned,10 Sage Street,Vallejo,CA ,94589,Solano,1,38.1408057,-122.2338012,4
+74,Lakewood,Light-Duty Planned,5500 South Street,Lakewood,CA ,90713,Los Angeles,1,33.8600086,-118.1295892,4
+75,San Jose - N Capitol,Light-Duty Planned,1898 N Capitol Avenue,San Jose,CA ,95132,Santa Clara,1,37.4032441,-121.8839009,4
+76,Fairfield,Light-Duty Planned,2595 N Texas Street,Fairfield,CA ,94533,Solano,1,38.2760086,-122.0371899,4
+77,Bellflower,Light-Duty Planned,9409 Alondra Boulevard,Bellflower,CA ,90706,Los Angeles,1,33.88953,-118.1362666,4
+78,San Jose - Union,Light-Duty Planned,3707 Union Avenue,San Jose,CA ,95124,Santa Clara,1,37.2600438,-121.9343032,4
+79,San Jose - Redmond,Light-Duty Planned,1331 Redmond Avenue,San Jose,CA ,95120,Santa Clara,1,37.2285888,-121.8874582,4
+80,Moreno Valley,Light-Duty Planned,12520 Graham Street,Moreno Valley,CA ,92553,Riverside,1,33.9389952,-117.2552857,4
+81,McClellan Park,Mixed-Use Planned,4785 Bailey Loop,McClellan Park,CA ,95652,Sacramento,1,38.6540051,-121.3955803,4
+82,Livermore,Mixed-Use Planned,7810 National Drive,Livermore,CA ,94550,Alameda,1,37.7058381,-121.7022006,4
+83,Fresno,Mixed-Use Planned,4163 S Chestnut Avenue,Fresno,CA ,93725,Fresno,1,36.6754733,-119.7400733,4
+84,Rosemead,Light-Duty Planned,939 San Gabriel Boulevard,Rosemead,CA ,91770,Los Angeles,1,34.0404372,-118.0846476,4
+85,Palm Springs,Light-Duty Planned,E Vista Chino & N Gene Autry Trail,Palm Springs,CA ,92262,Riverside,1,33.845138,-116.8056125,4
+86,Chino Hills,Light-Duty Planned,3260 Chino Avenue,Chino Hills,CA,91709,San Bernardino,1,34.0115034,-117.7353443,2
+87,La Mirada ,Light-Duty Planned,13550 South Beach Boulevard,La Mirada,CA,90638,Los Angeles,1,33.9086133,-117.9793978,2
+88,Kettleman City,Mixed-Use Planned,33252 Hubert Way,Kettleman City,CA,93239,Kings,1,35.9893994,-119.9633314,4
+89,Galt,Mixed-Use Planned,Northwest corner of Carol Drive & Amador Ave,Galt,CA,95632,Sacramento,1,38.2656146,-121.3022025,4
+90,Antioch,Light-Duty Planned,2413 A Street,Antioch,CA,94509,Contra Costa,1,37.99973473,-121.8054137,2
+91,Beaumont,Light-Duty Planned,325 Luis Estrada Road,Beaumont,CA,92223,Riverside,1,33.92571953,-116.9778393,2
+92,Carson,Light-Duty Planned,111 E Victoria St,Carson,CA,90746,Los Angeles,1,33.86613032,-118.274706,3
+93,Lancaster,Light-Duty Planned,43144 10th Street West,Lancaster,CA,93534,Los Angeles,1,34.66650415,-118.1474617,2
+94,Perris,Light-Duty Planned,796 Ramona Expy,Perris,CA,92571,Riverside,1,33.84509358,-117.2434009,3
+95,Vacaville,Light-Duty Planned,299 Orange Drive,Vacaville,CA,95687,Solano,1,37.99973473,-121.9556346,2
+96,West Sacramento - W Capital,Light-Duty Planned,4900 W. Capitol Ave,West Sacramento,CA,95691,Yolo,1,38.57563587,-121.5767986,4
+97,Kerman,Light-Duty Planned,24209 W. Whitesbridge Ave,Kerman,CA,93630,Fresno,1,36.7343683,-120.2400417,3
+98,Thousand Palms,Light-Duty Planned,32505 Harry Oliver Trail,Thousand Palms,CA,92276,Riverside,1,33.8125455,-116.3978386,2
